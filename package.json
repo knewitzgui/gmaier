@@ -1,0 +1,23 @@
+{
+  "name": "gmaier",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/knewitzgui/gmaier.git"
+  },
+  "author": "Guilherme Maier Knewitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knewitzgui/gmaier/issues"
+  },
+  "homepage": "https://github.com/knewitzgui/gmaier#readme",
+  "dependencies": {
+    "fullpage.js": "^3.0.7",
+    "particles.js": "^2.0.0"
+  }
+}
